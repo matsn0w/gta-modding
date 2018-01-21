@@ -1,0 +1,8 @@
+C:\Programming\GITHUB\gta-modding\LSPDFR Plugins\My first GTA plugin\My first GTA plugin\bin\Debug\My first GTA plugin.dll
+C:\Programming\GITHUB\gta-modding\LSPDFR Plugins\My first GTA plugin\My first GTA plugin\bin\Debug\My first GTA plugin.pdb
+C:\Programming\GITHUB\gta-modding\LSPDFR Plugins\My first GTA plugin\My first GTA plugin\bin\Debug\RagePluginHookSDK.dll
+C:\Programming\GITHUB\gta-modding\LSPDFR Plugins\My first GTA plugin\My first GTA plugin\bin\Debug\RagePluginHookSDK.xml
+C:\Programming\GITHUB\gta-modding\LSPDFR Plugins\My first GTA plugin\My first GTA plugin\obj\Debug\My first GTA plugin.csprojResolveAssemblyReference.cache
+C:\Programming\GITHUB\gta-modding\LSPDFR Plugins\My first GTA plugin\My first GTA plugin\obj\Debug\My first GTA plugin.csproj.CoreCompileInputs.cache
+C:\Programming\GITHUB\gta-modding\LSPDFR Plugins\My first GTA plugin\My first GTA plugin\obj\Debug\My first GTA plugin.dll
+C:\Programming\GITHUB\gta-modding\LSPDFR Plugins\My first GTA plugin\My first GTA plugin\obj\Debug\My first GTA plugin.pdb
